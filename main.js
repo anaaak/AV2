@@ -1,1 +1,1 @@
-alert("fala parceiro");
+alert("fala parceira");
